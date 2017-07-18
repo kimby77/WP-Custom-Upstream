@@ -13,6 +13,8 @@ Twenty Seventeen brings your site to life with header video and immersive featur
 
 For more information about Twenty Seventeen please go to https://codex.wordpress.org/Twenty_Seventeen.
 
+THIS IS A TESTING UPDATE ON THE THEME.
+
 == Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
