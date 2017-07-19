@@ -556,7 +556,7 @@ a:hover {
 }
 .site-header h1 a,
 .site-header h2 a {
-	color: red;
+	color: blue;
 	display: inline-block;
 	text-decoration: none;
 }
